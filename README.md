@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://kromskii2supermegasite.on.drv.tw/nginx-1.25.0/html/"><img src="https://img.shields.io/badge/My_site-blue?style=for-the-badge&logo=&logoColor=white" alt=""></a>
 </p>
 <p align="center">
 <a href="https://www.donationalerts.com/r/kromskii2official" target="_blank"><img src="https://img.shields.io/badge/donationalerts-blue?style=for-the-badge&logo=donationalerts&logoColor=white" alt="donationalerts"></a>
