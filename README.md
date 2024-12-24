@@ -14,7 +14,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - 🔭 Я работаю программистом и вношу свой вклад в разработку интерфейса и серверной части для создания веб-приложений.
 - 🌱 Изучение написания технического контента.
